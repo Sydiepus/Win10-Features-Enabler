@@ -1,6 +1,6 @@
 # Win10-Features-Enabler
-this script will enable windows 10 PRO features on the Home edition
-the purpose of this project is to make the installation of Docker Desktop on Windows 10 Home possible
+this script will enable windows 10 PRO features on the Home edition.  
+the purpose of this project is to make the installation of Docker Desktop on Windows 10 Home possible.
 # How to use
 ## Instalation
 - Clone the repository
@@ -26,3 +26,4 @@ you should now have an Administrator powershell
 cd C:\Users\user
 py winFE.py
 ```
+**after you have enabled the features required for docker desktop and changed the values in the registry you can proceed in the installation**
