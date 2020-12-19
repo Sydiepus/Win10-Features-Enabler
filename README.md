@@ -1,6 +1,6 @@
 # Win10-Features-Enabler
 This script will enable windows 10 PRO features on the Home edition.  
-The purpose of this project is to make the installation of Docker Desktop on Windows 10 Home possible.
+The purpose of this project is to make the installation of Docker Desktop on Windows 10 <= 1909 Home possible.
 # How to use
 ## Instalation
 - Clone the repository
